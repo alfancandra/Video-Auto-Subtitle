@@ -1,0 +1,15 @@
+1
+00:00:00,512 --> 00:00:05,120
+Halo perkenalkan nama saya Alfan Adi Chandra dari Brebes Jawa Tengah
+
+2
+00:00:05,376 --> 00:00:07,680
+Saya dari Prodi software engineering
+
+3
+00:00:07,936 --> 00:00:10,752
+Di Institut Teknologi Telkom Purwokerto
+
+4
+00:00:11,520 --> 00:00:13,568
+Dan saya berumur 19 tahun
